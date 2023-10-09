@@ -1,3 +1,3 @@
 # **Lancer Scout Web Client**
 
-Setup instructions...
+RoboLancers scouting app
